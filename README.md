@@ -1,5 +1,6 @@
 # movie_verse
 Movie Database Analysis Project (SQL)
+
 🔹 Project Overview
 
 This project focuses on analyzing a movie database using advanced SQL concepts to extract meaningful insights related to users, movies, ratings, genres, and actors. The goal is to demonstrate strong skills in data analysis, querying, and window functions by solving real-world analytical problems.
